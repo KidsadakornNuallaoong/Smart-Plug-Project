@@ -1,6 +1,6 @@
 # Smart-Plug-Project
 
-![ESP32s3 v 1](https://user-images.githubusercontent.com/121489701/233400791-5f0da1d8-2b87-44dc-acf0-f8df487e0fc9.png)
+![V1](https://user-images.githubusercontent.com/121489701/233400884-4035c4d9-88ed-4069-abb8-b58dedd68a96.png)
 
 ## This Project we apply IOT with Cloud Platform & Alexa
 
